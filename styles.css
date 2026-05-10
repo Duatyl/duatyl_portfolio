@@ -1,0 +1,16 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #1a1a1a;
+    color: #ffffff;
+  }
+}
+
+#navbar{
+  display:flex;
+  background-color:cyan;
+  list-style:none;
+  position:fixed;
+  width:100%;
+  top:0;
+  left:0;
+}
